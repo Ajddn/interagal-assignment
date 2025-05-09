@@ -1,3 +1,5 @@
+build with react and mui below are the steps to run it in your machine
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
